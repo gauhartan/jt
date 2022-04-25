@@ -1,4 +1,4 @@
-package Test;
+package jt.io;
 
 public class HelloWorld {
     public static void main(String[] args) {
